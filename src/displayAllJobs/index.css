@@ -1,0 +1,36 @@
+.display-jobs-card {
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(45, 25, 25);
+    list-style: none;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.logo-rating-cont {
+    display: flex;
+}
+
+.title-rating-cont {
+    margin-left: 15px;
+}
+
+.locatn-intern-packge-cont{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.locatn-intern-cont{
+    margin-right: 10px;
+    display: flex;
+}
+
+.locatn-cont{
+    margin-right: 10px;
+}
+
+.intern-cont{
+    
+}
